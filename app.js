@@ -1,4 +1,4 @@
-// Select elements
+// Selecting DOM elements
 const display = document.querySelector('.display');
 const numbers = document.querySelectorAll('.number');
 const operators = document.querySelectorAll('.operator');
