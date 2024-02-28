@@ -5,6 +5,8 @@ const operators = document.querySelectorAll('.operator');
 const clearButton = document.querySelector('.clear');
 const equalsButton = document.querySelector('.equals');
 
+// Initializing variables
+
 let firstOperand = '';
 let secondOperand = '';
 let currentOperator = null;
